@@ -1,0 +1,49 @@
+.pagetitle{
+	color: rgb(42, 41, 56);
+	font-family: 'Crimson Pro', serif;
+	font-size: 300%;
+
+}
+
+.name {
+	color: rgb(42, 41, 56);
+	font-family: 'Crimson Pro', serif;
+	font-size: 150%;
+
+}
+
+header, footer {
+	color: rgb(42, 41, 56);
+	font-family: 'Montserrat', sans-serif;
+	padding: 15px;
+}
+
+body {
+	color: white;
+	background-color:rgb(42, 41, 56);
+	background-image: url("http://motoki-y.sakura.ne.jp/kabegami/008/a.gif");
+	font-family: 'Montserrat', sans-serif;
+	font-size: 100%;
+	margin: 5em 25%;
+	}
+
+table, th, td {
+	border: 1px solid transparent;
+	border-radius: 10px;
+	border-spacing: 15px;
+	padding: 15px;
+	background-color: rgb(70, 74, 80);
+	
+}
+
+table {
+	width: 100%;
+	border-collapse: separate;
+}
+
+td {
+	text-align: center;
+	background-color: rgb(138, 139, 150);
+}
+
+
